@@ -1,8 +1,8 @@
 # Learn-Node-js
-This repo will have hand-on and all theoretical knowledge
+This repo will have list down the topics required to gain good knowledge in Javascript and Node Js
 Below topics will be covered in this.
 
-# Topics
+# Topics - Basic concepts
 * What is Node Js 
 * Where does Node JS run  
 * How does Node js work  
