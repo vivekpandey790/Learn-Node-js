@@ -1,5 +1,5 @@
 # Learn-Node-js
-This repo will have list down the topics required to gain good knowledge in Javascript and Node Js
+This repo will have list down the topics required to gain good knowledge in Javascript and Node Js \
 Below topics will be covered in this.
 
 # Topics - Basic concepts
@@ -42,7 +42,7 @@ Below topics will be covered in this.
 * This keyword
 * bind(), call() and apply ()
 * Generators
-* Stram in Node JS
+* Stream in Node JS
 * Express in Node JS
 * Custom implementation of your own method in node modules.
 * Cluster and child process ---Advance for highly scalable solution
